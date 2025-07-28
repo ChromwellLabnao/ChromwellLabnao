@@ -5,7 +5,7 @@
 <h1 align="center" style="font-weight: bold; color:#1a237e">Hi, I'm Chromwell M. Labnao</h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
-  <b>Fresh Graduate of Year 2025 – Bachelor of Science in Information Technology</b><br>
+  <b>Bachelor of Science in Information Technology</b><br>
   <i>Asian College of Technology</i>
 </p>
 
@@ -24,7 +24,7 @@
 
 I’m a **passionate software developer** and fresh graduate with a focus on building **real-world business solutions** that automate operations, save time, and boost productivity.
 
-From automating inventory and sales for motorcycle shops to digitizing attendance tracking in construction firms, I develop systems that work where it matters — **in the field**.
+From automating inventory and sales to digitizing attendance tracking, I develop systems that work where it matters — **in the field**.
 
 ---
 
@@ -38,7 +38,7 @@ From automating inventory and sales for motorcycle shops to digitizing attendanc
 
 ---
 
-### 🏗 Baay Construction Co. – Company Website & QR Code Attendance System
+### 🏗 Baay Construction Co. – Company Website & QR Code Attendance Management System
 > ✅ **Tech Stack:** ASP.NET Core Razor Pages, C#, MS SQL, JS, HTML/CSS  
 > 🌐 Created a modern and responsive **company portfolio website**  
 > 📲 Developed a **QR Code Attendance System** that:  
