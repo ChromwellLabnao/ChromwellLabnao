@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=header"/>
 </p>
 
-<h1 align="center" style="font-weight: bold; color:#1a237e">Hi, I'm Chromwell M. Labnao</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Chromwell M. Labnao</h1>
+<h3 align="center">Full-Stack Developer | Business Systems Engineer</h3>
+
 <p align="center">
-  <b>Bachelor of Science in Information Technology</b><br>
-  <i>Asian College of Technology</i>
+  Bachelor of Science in Information Technology <br>
+  Asian College of Technology
 </p>
 
 <p align="center">
@@ -20,83 +21,130 @@
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 Professional Summary
 
-I’m a **passionate software developer** and fresh graduate with a focus on building **real-world business solutions** that automate operations, save time, and boost productivity.
+Full-stack developer focused on building **production-grade business systems** that replace manual workflows and improve operational efficiency.
 
-From automating inventory and sales to digitizing attendance tracking, I develop systems that work where it matters — **in the field**.
-
----
-
-## 💼 Real-World Projects That Make a Difference
-
-### 🔧 Inventory Management System – RKS Motorcycle Parts and Accessories
-> ✅ **Tech Stack:** WinForms (C#), MS SQL Server  
-> 📦 Designed to eliminate manual logbooks and input errors  
-> 📊 Features: Stock level tracking, automated sales logging, supplier notifications, and real-time reporting  
-> 🧠 Purpose-built for actual business operations
+I work across **.NET and Laravel ecosystems**, designing structured databases, secure backend logic, and scalable systems used in real operations.
 
 ---
 
-### 🏗 Baay Construction Co. – Company Website & QR Code Attendance Management System
-> ✅ **Tech Stack:** ASP.NET Core Razor Pages, C#, MS SQL, JS, HTML/CSS  
-> 🌐 Created a modern and responsive **company portfolio website**  
-> 📲 Developed a **QR Code Attendance System** that:  
-> - Generates employee QR codes  
-> - Uses device camera for scanning  
-> - Logs and tracks attendance in real-time  
-> - Restricts admin access by location with geofencing logic  
-> 🔐 Deployed with Cloudflare SSL for added security
+## 🏗 Featured Projects
+
+### 1️⃣ Inventory Management System (Desktop)
+**Client:** RKS Motorcycle Parts and Accessories  
+**Stack:** C# (WinForms), .NET Framework, MS SQL Server  
+
+**Problem:** Manual inventory tracking caused discrepancies and delayed reporting.
+
+**Solution:**
+- Automated stock monitoring
+- Sales and returns logging
+- Supplier tracking
+- Daily/monthly reporting
+- Reduced manual input errors
 
 ---
 
-## 🛠 Technical Skills
+### 2️⃣ Inventory Management System (Web-Based)
+**Stack:** PHP Laravel, MySQL, Blade, JavaScript  
 
-### Languages & Frameworks
-- **C#**, **HTML5**, **CSS3**, **JavaScript**, Razor Pages  
-- **ASP.NET Core**, **WinForms**, **.NET Framework**  
-- **SQL (MS SQL Server)**
+**System Highlights:**
+- Modular architecture using MVC pattern
+- Product, category, supplier, and stock management
+- Sales recording and transaction history
+- Shipping management module
+- Real-time stock updates
+- Dashboard analytics
+- Role-based user access
+- Clean Blade component-based UI
 
-### Tools & APIs
-- Visual Studio, SSMS, Git, GitHub  
-- TinyPNG API (Image compression integration)  
-- Geolocation API (Admin access restriction)  
-- Cloudflare (SSL & performance optimization)
-
----
-
-## 🚀 What I Offer
-
-- ✅ Real-world business systems, not just school projects  
-- ✅ Clean, scalable, and maintainable code  
-- ✅ Seamless integration of front-end and back-end logic  
-- ✅ Client-centric solutions with fast delivery  
-- ✅ Attention to UX, design, and data accuracy
+**Engineering Focus:**
+- Database normalization and indexing for performance
+- RESTful route structure
+- Secure form validation
+- CSRF protection and middleware authorization
+- Server-side business logic enforcement
 
 ---
 
-## 💡 Future Vision: CML Digital Solutions
+### 3️⃣ Company Website & QR Code Attendance System
+**Client:** Baay Construction Co.  
+**Stack:** ASP.NET Core Razor Pages, C#, MS SQL, JavaScript  
 
-> 💭 **Trivia:** I plan to launch my own software company called **CML Digital Solutions** in the future.  
-> **CML** stands for **Chromwell M. Labnao**, and also means:  
-> “**Code More Logic**” – a philosophy of building elegant and efficient digital systems for real-world problems.
+**Solution Includes:**
+- Responsive portfolio website
+- QR-based attendance tracking
+- Unique QR generation per employee
+- Real-time logging using device camera
+- Admin CRUD management
+- Location-based login restriction
+- SSL-secured deployment via Cloudflare
 
 ---
 
-## 🧩 In Progress
+## 🛠 Technical Stack
 
-- 🌐 Building my **Portfolio Website** with live demos, code walkthroughs, and client testimonials  
-- 🔐 Finalizing login system with location-based admin access  
-- 📈 Preparing for deployment of future SaaS offerings
+### Languages
+- C#
+- PHP
+- SQL
+- JavaScript
+- HTML5
+- CSS3
+
+### Frameworks & Platforms
+- ASP.NET Core
+- Razor Pages
+- WinForms
+- .NET Framework
+- Laravel
+
+### Database
+- Microsoft SQL Server
+- MySQL
+
+### Tools & Technologies
+- Visual Studio
+- VS Code
+- Git & GitHub
+- Cloudflare
+- TinyPNG API
+- Geolocation API
 
 ---
 
-## 📬 Let's Collaborate
+## 🧠 Engineering Principles
 
-📩 Whether you're a small business owner needing automation or a team seeking a reliable dev, I’m open to opportunities and collaboration.
+- Clean and maintainable architecture
+- Business-first system design
+- Secure-by-default development
+- Scalable database structure
+- Performance-conscious queries
 
-- [LinkedIn](https://www.linkedin.com/in/chromwell-labnao-504876329)  
-- [GitHub](https://github.com/ChromwellLabnao)
+---
+
+## 🚀 Currently Building
+
+- Location-based employee attendance system (mobile-compatible)
+- Image compression & automatic WebP conversion pipeline
+- SaaS-ready Laravel architecture
+- Advanced reporting dashboards
+
+---
+
+## 📬 Open to Opportunities
+
+Open to:
+- Full-stack development roles
+- Laravel backend development
+- ASP.NET Core projects
+- Business automation systems
+
+Connect with me:
+
+- LinkedIn: https://www.linkedin.com/in/chromwell-labnao-504876329
+- GitHub: https://github.com/ChromwellLabnao
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=footer"/>
